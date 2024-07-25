@@ -1,0 +1,21 @@
+House Price Prediction
+(Data)
+Rata-Rata Harga/Unit Pembangunan Rumah oleh Perum Perumnas (Juta Rupiah)
+
+Terakhir Diperbarui : 14 Juni 2024
+
+https://www.bps.go.id/id/statistics-table/2/MjU2IzI=/rata-rata-harga-unit-pembangunan-rumah-oleh-perum-perumnas.html
+
+Prediksi Harga Rumah di Jawa Timur berdasarkan data yang ditunjukkan oleh BPS
+2008 = 65.000.000
+2009 = 77.000.000
+2010 = 64.000.000
+2011 = 50.000.000
+2012 = 77.000.000
+2013 = 128.160.000
+2014 = 147.390.000
+2015 = 154.640.000
+2016 = 114.120.00
+2017 = 304.400.000
+2018 = 170.200.000
+
